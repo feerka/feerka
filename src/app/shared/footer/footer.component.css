@@ -1,0 +1,28 @@
+.image {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+}
+
+.foot {
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
+.imag {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
